@@ -1,1 +1,2 @@
 This is example text number 2.
+This is example text for 4'rd commit.
