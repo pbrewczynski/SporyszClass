@@ -1,2 +1,0 @@
-This is example text.
-This is example text for 4'th commit.
